@@ -1,18 +1,20 @@
 {
-  "name": "getSS",
-  "version": "1.0.0",
-  "description": "",
+  "name": "getss",
+  "version": "1.0.1",
+  "description": "get ss",
   "main": "index.js",
   "bin": {
     "ss": "./index.js"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "release": "standard-version"
   },
   "keywords": [],
   "author": "fuchao.zheng <zhengfuchao2008@126.com> (https://github.com/fuchao2012)",
   "license": "MIT",
-  "devDependencies": {},
+  "devDependencies": {
+    "standard-version": "^5.0.2"
+  },
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
     "superagent": "^4.1.0",
