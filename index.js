@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const superagent = require('superagent');
 const cheerio = require('cheerio');
 const fs = require('fs');
