@@ -707,11 +707,6 @@ tinycolor2@^1.1.2:
   resolved "http://registry.npm.taobao.org/tinycolor2/download/tinycolor2-1.4.1.tgz?cache=0&other_urls=http%3A%2F%2Fregistry.npm.taobao.org%2Ftinycolor2%2Fdownload%2Ftinycolor2-1.4.1.tgz#f4fad333447bc0b07d4dc8e9209d8f39a8ac77e8"
   integrity sha1-9PrTM0R7wLB9TcjpIJ2POaisd+g=
 
-typescript@^3.3.3333:
-  version "3.3.3333"
-  resolved "http://registry.npm.taobao.org/typescript/download/typescript-3.3.3333.tgz#171b2c5af66c59e9431199117a3bcadc66fdcfd6"
-  integrity sha1-FxssWvZsWelDEZkRejvK3Gb9z9Y=
-
 unpipe@1.0.0:
   version "1.0.0"
   resolved "http://registry.npm.taobao.org/unpipe/download/unpipe-1.0.0.tgz#b2bf4ee8514aae6165b4817829d21b2ef49904ec"
